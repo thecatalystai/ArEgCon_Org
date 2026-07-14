@@ -1,3 +1,15 @@
+Vision
+
+To become the leading AI-first Management Information System company in Saudi Arabia and the region, redefining how organizations manage projects, quality, and compliance through intelligent, automated, and data-driven platforms.
+ArEgCon envisions a future where traditional, manual systems are replaced by proactive, self-learning ecosystems that enable real-time decision-making, predictive insights, and operational excellence—supporting the Kingdom’s digital transformation and Vision 2030 ambitions.
+
+Mision
+
+To establish a technology-driven startup in Saudi Arabia that delivers advanced Project Management and Management Information System (MIS) solutions by transforming legacy platforms into modern, scalable, and AI-enabled products. ArEgCon is committed to redesigning and developing robust systems using cutting-edge technologies such as React.js and Laravel APIs, supported by a multidisciplinary team of leadership, auditors, cybersecurity experts, and engineers.
+Our mission is to build, validate, and deliver high-quality digital solutions that enhance operational efficiency, governance, and decision-making for organizations across the Kingdom, while positioning ArEgCon as a trusted partner in digital transformation.
+
+org Str
+
                              CEO
                               │
         ┌─────────────────────┼─────────────────────┐
